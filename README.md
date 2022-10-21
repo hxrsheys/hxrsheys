@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hxrsheys!
+- 👀 I’m interested in fantasy books, medieval video games, and coding!
+- 🌱 I’m currently learning c# and basic computer science.
